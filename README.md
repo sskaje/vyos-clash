@@ -183,8 +183,8 @@ save
 
 TODO:
 
-* Add support of custom NAT chain to VyOS and allow nat jump to custom chain.
 * UDP not forwarded yet.
+* Add support of custom NAT chain to VyOS and allow nat jump to custom chain. <= seems unnecessary?
 
 
 ## TODO
